@@ -14,8 +14,8 @@ return (
 	<Routes>
 		<Route path='/' element={<Home/>} />
 		<Route path='/homepage' element={<Home/>} />
-		<Route path='/education' element={<Blogs/>} />
-		<Route path='/courses' element={<Contact/>} />
+		<Route path='#education' element={<Blogs/>} />
+		<Route path='#courses' element={<Contact/>} />
 	</Routes>
 	</Router>
 );
