@@ -7,7 +7,7 @@ const IntroCard = () => {
             <div>
                 <div className="pictureWrapper">
                     <div className = "frame">
-                        <img src = 'NicoleM.png' height={300} width={273} />
+                        <img src = {require('./NicoleM.png')} height={300} width={273} />
                     </div>
                     <div className = "contactBlock">
                         Email: ziyimeng@brandes.edu

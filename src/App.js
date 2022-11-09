@@ -12,7 +12,7 @@ return (
 	<Router>
 	<Navbar />
 	<Routes>
-		<Route path='/homepage' element={<Home/>} />
+		<Route path='/' element={<Home/>} />
 		<Route path='/home' element={<Home/>} />
 		<Route path='/education' element={<Blogs/>} />
 		<Route path='/courses' element={<Contact/>} />
