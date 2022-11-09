@@ -7,10 +7,10 @@ const Navbar = () => {
   const location = useLocation();
   console.log(location)
   let key = "";
-  if(location.pathname == "/courses"){
+  if(location.pathname == "/homepage#courses"){
     key = "courses"
   }
-  else if(location.pathname == "/education"){
+  else if(location.pathname == "/homepage#education"){
     key = 'education'
   }
   else{
@@ -20,27 +20,27 @@ const Navbar = () => {
   if (key == "home"){
     return (
       <div className="topnav">
-        <a className="active" href="/home">Home</a>
-        <a href="/education">Education</a>
-        <a href="/courses">Courses Taught</a>
+        <a className="active" href="/homeoage">Home</a>
+        <a href="/homepage#education">Education</a>
+        <a href="/homepage#courses">Courses Taught</a>
     </div>
   );
   }
   else if (key == "education"){
     return (
       <div className="topnav">
-        <a href="/home">Home</a>
-        <a className="active" href="/education">Education</a>
-        <a href="/courses">Courses Taught</a>
+        <a href="/homepage">Home</a>
+        <a className="active" href="/homepage#education">Education</a>
+        <a href="/homepage#courses">Courses Taught</a>
     </div>
   );
   }
   else{
     return (
       <div className="topnav">
-        <a href="/home">Home</a>
-        <a href="/education">Education</a>
-        <a className="active" href="/courses">Courses Taught</a>
+        <a href="/homepage">Home</a>
+        <a href="/homepage#education">Education</a>
+        <a className="active" href="/homapage#courses">Courses Taught</a>
     </div>
   );
   }
