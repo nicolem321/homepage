@@ -4,7 +4,7 @@ import './style.css';
 const Courses = () => {
     return (
         <div class="box">
-            <h1 className="nameWrapper">Courses Taught</h1>
+            <h1 className="nameWrapper1">Courses Taught</h1>
             <div class="box1">
                 • <b>Head Teaching Assistant</b>: <em>Data Structures and Fundementals of Computing</em>, Prof. Iraklis Tsekourakis, Fall2022<br></br>
                 • <b>Teaching Assistant</b>: <em>Data Structures and Fundementals of Computing</em>, Prof. Antonella Di Lillo, Spr2022<br></br>

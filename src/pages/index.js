@@ -1,9 +1,15 @@
 import React from "react";
 import IntroCard from '../components/introCard';
+import Education from "../components/education"
+import Courses from "../components/courses"
   
 const Home = () => {
   return (
-    <IntroCard/>
+    <div>
+      <IntroCard/>
+      <Education/>
+      <Courses/>
+    </div>
     );
 };
   
