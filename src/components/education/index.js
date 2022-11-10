@@ -20,7 +20,7 @@ const Education = () => {
                              Fundementals of Artificial Intelligence,
                              Web Application Development,
                              Advanced Programming Techniques in Java, 
-                             Problem solving in Python,
+                             Problem Solving in Python,
                              Independent Study(Dr.Pengyu Hong),
                              Senior Thesis (Dr.Pengyu Hong)<br></br>
                     <b>[Projects]</b>: <a href="https://github.com/nicolem321/personalApp">Orientation Helper App</a>: 
@@ -40,7 +40,7 @@ const Education = () => {
                 </div>
                 <h2>Applied Mathematics B.S.</h2>
                     <div class="description">
-                        <b>[Secondary Major]</b> Bechelor of Science<br></br>
+                        <b>[Secondary Major]</b> Bachelor of Science<br></br>
                         <b>[Courses]</b>: Optimization, Numerical Methods and Big Data,
                                           Fourier Analysis and Advanced Calculus,
                                           Probability, Introduction to Applied Mathmetics, 
@@ -52,7 +52,7 @@ const Education = () => {
                     </div>
                 <h2>Economics B.A.</h2>
                 <div class="description">
-                        <b>[Additional  Major]</b> Bechelor of Arts<br></br>
+                        <b>[Additional  Major]</b> Bachelor of Arts<br></br>
                         <b>[Courses]</b>: Econometrics, Industrial Organization, 
                                           The Global Economy, Microeconomic Theory,
                                           Statistics for Economic Analysis, 
