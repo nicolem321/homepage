@@ -1,22 +1,27 @@
 .row {
     width: 100%;
     margin: 5px;
+    overflow: hidden;
   }
 
   .block {
     width: 1000px;
     float: left;
-    padding: 80px;
+    padding: 40px;
+    margin-left:80px;
     font-size: 20px;
     line-height: 1.8;
     color: #484848;
     font-family: 'Arial';
+    position: relative;
+    
   }
  
 .pictureWrapper {
-    padding: 100px;
+    padding: 5%;
     float: left;
     width: 200px;
+    position: relative;
 }
 
 .contactBlock {

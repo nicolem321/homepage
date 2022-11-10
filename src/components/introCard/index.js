@@ -4,7 +4,6 @@ import './style.css';
 const IntroCard = () => {
     return (
         <div className = "row">
-            <div>
                 <div className="pictureWrapper">
                     <div className = "frame">
                         <img src = {require('./NicoleM.png')} height={300} width={273} />
@@ -14,7 +13,7 @@ const IntroCard = () => {
                         Linkedin: <a href="https://www.linkedin.com/in/nicole-meng-ab80651b5/">nicole-meng</a><br></br>
                         Tel: +1 (781) 775-6231
                     </div>
-                </div>
+                </ div>
                 <div className="block">
                     <h1 className="nameWrapper">Nicole Meng</h1>
                     • Software Engineer at <a href="https://www.pega.com/what-is-pega?&utm_source=google&utm_medium=cpc&utm_campaign=G_US_Brand_Core_(CPN-103042)_EN&utm_term=pegasystems&gloc=9002071&utm_content=pcrid%7c623761998238%7cpkw%7ckwd-11104391%7cpmt%7cb%7cpdv%7cc%7c&gclid=CjwKCAjwtp2bBhAGEiwAOZZTuGBskJ-q_8HE1iZYLJWe_yWVMKnYM03Xdl73gGnoSsHypEDGGS2tpxoChfAQAvD_BwE&gclsrc=aw.ds">PegaSystems</a><br></br>
@@ -30,7 +29,6 @@ const IntroCard = () => {
                     I started working as a Full Stack Software Engineer Intern at Pegasystems after my junior year and the product of my team is the <a href="https://www.pega.com/insights/resources/pega-workforce-intelligence">Workforce Intelligence Bot</a>. 
                     I am also working as a Head Teaching Assistant for Professor <a href="https://tsekourakis.github.io/">Iraklis Tsekourakis</a> for the course <a href="https://www.brandeis.edu/departments/computer-science/course-schedule/course?acad_year=2021&crse_id=001722&strm=1211&class_section=1">Data Structures and Algorithms. </a>
                 </div>
-            </div> 
         </div>
     );
 }
