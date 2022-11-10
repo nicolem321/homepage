@@ -5,15 +5,28 @@
   }
 
   .block {
-    width: 70%;
+    width: 37%;
     float: left;
-    padding: 40px;
-    margin-left:80px;
+    margin-left:180px;
+    margin-top: 70px;
     font-size: 20px;
     line-height: 1.8;
     color: #484848;
     font-family: 'Arial';
     position: relative;
+    margin-bottom: 0px;
+    
+  }
+  .descriptionBlock {
+    width: 70%;
+    float: left;
+    margin-left:180px;
+    font-size: 20px;
+    line-height: 1.8;
+    color: #484848;
+    font-family: 'Arial';
+    position: relative;
+    margin-bottom: 40px;
     
   }
 
@@ -23,14 +36,15 @@
   }
  
 .pictureWrapper {
-    padding: 5%;
+    padding: 2%;
     float: left;
     width: 10%;
     position: relative;
 }
 
 .contactBlock {
-  padding: 22px;
+  margin-top: 10px;
+  margin-left: 5px;
   float: left;
   width: 250px;
   font-size: 18px;

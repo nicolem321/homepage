@@ -62,10 +62,10 @@ const Education = () => {
                                            Final Project for the Economics of Education. The paper aims to study the relationship between being assigned a female professor 
                                            and the future probabilities of getting a STEM master’s degree and working in STEM areas for female students.
                                            I examined the the internal and external validity of this reserach paper and provided critism in many aspects. <br></br>
-                                           <a href="file:///Users/nicolemeng/Downloads/FinalProjectCode.html">Housing Price Prediction</a>
+                                           <a href="file:///Users/nicolemeng/Downloads/FinalProjectCode.html">Housing Price Prediction</a>: 
                                            A random sample of actual housing market transactions in the state of New York is provided. 
                                            The dataset contains almost everything that is reported to tax authorities: buyer and seller names, sales price, year, structural information, etc. 
-                                           The goal is to construct a model that predicts historical housing market prices as close as possible.
+                                           The goal is to construct a model that predicts historical housing market prices as close as possible using R. 
                     </div>
             </div>
 
