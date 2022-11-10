@@ -5,7 +5,7 @@
   }
 
   .block {
-    width: 1000px;
+    width: 70%;
     float: left;
     padding: 40px;
     margin-left:80px;
@@ -16,11 +16,16 @@
     position: relative;
     
   }
+
+  img {
+    width: 100%;
+    height: 100%
+  }
  
 .pictureWrapper {
     padding: 5%;
     float: left;
-    width: 200px;
+    width: 10%;
     position: relative;
 }
 
