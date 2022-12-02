@@ -34,7 +34,7 @@ const Education = () => {
                                        <a href="https://github.com/nicolem321/COSI103A-CPA2">Train Station Finder</a>: 
                                        This Station Finder app was designed using Mongoose with the purpose of querying data. Users will be able to search up 
                                        station information by quering different key components of the station.<br></br>
-                                       <a href="localhost:3000">Personal Website</a>: 
+                                       <a href="https://nicolem321.github.io/homepage/">Personal Website</a>: 
                                        This website was designed using React.js and serves as my personal home page. 
                     
                 </div>
