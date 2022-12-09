@@ -32,5 +32,19 @@
     line-height: 1.8;
     color: #484848;
     font-family: 'Arial';
-    color: white
+    color: white;
+    float: left;
   }
+
+.box2 {
+    float:right;  
+    clear: none;
+    width: 25%;
+    position: relative;
+}
+.box3 {
+  float: left;  
+  clear: none;
+  width: 70%;
+  position: relative;
+}
