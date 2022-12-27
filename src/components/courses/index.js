@@ -7,7 +7,8 @@ const Courses = () => {
             <h1 className="nameWrapper1">Courses Taught</h1>
             <div className="box1">
             <div className = "box3">
-                • <b>Head Teaching Assistant</b>: <em>Data Structures and Fundementals of Computing</em>, Prof. Iraklis Tsekourakis, Fall2022<br></br>
+                • <b>Head Teaching Assistant</b>: <em>Operating Systems</em>, Prof. Pito Salas, Spr2023<br></br>
+                • <b>Head Teaching Assistant</b>: <em>Data Structures and Fundementals of Computing</em>, Prof. Iraklis Tsekourakis, Fall2022 - Spr2023<br></br>
                 • <b>Teaching Assistant</b>: <em>Data Structures and Fundementals of Computing</em>, Prof. Antonella Di Lillo, Spr2022<br></br>
                 • <b>Head Teaching Assistant</b>: <em>Problem Solving in Python</em>, Prof. Iraklis Tsekourakis, Fall2021 - Summer2022<br></br>
                 • <b>Teaching Assistant</b>: <em>Econometrics</em>, Prof. YinChu Zhu, Spr2022<br></br>
