@@ -16,6 +16,8 @@ const Education = () => {
                              Data Structures and the Fundementals of Computing, 
                              Theory of Computation, 
                              Operating Systems, 
+                             Machine Learning with Economic Applications, 
+                             Structure and Interpretation of Computer Programs, 
                              Fundementals of Software Engineering, 
                              Fundementals of Artificial Intelligence,
                              Web Application Development,
@@ -23,7 +25,10 @@ const Education = () => {
                              Problem Solving in Python,
                              Independent Study(Dr.Pengyu Hong),
                              Senior Thesis (Dr.Pengyu Hong)<br></br>
-                    <b>[Projects]</b>: <a href="https://github.com/nicolem321/personalApp">Orientation Helper App</a>: 
+                    <b>[Projects]</b>: <a href="https://github.com/nicolem321/RaySAttack">RayS Attack with CIFAR-10</a>: 
+                                       RayS Attack(<a href="https://arxiv.org/abs/2006.12792">paper</a>) ran on selected samples from the validation set of CIFAR-10 dataset on pretrained victim model ViT-L-16. 
+                                       The report for this project can be found <a href="https://docs.google.com/document/d/1QedHofmJKbkmXQf3irBg7kKqQDHEs2Sl3OsJ5TURrZk/edit">here</a><br></br>
+                                       <a href="https://github.com/nicolem321/personalApp">Orientation Helper App</a>: 
                                        This web app was designed when I was an orientation leader for me school, 
                                        I designed the app aiming to help incoming students to have all the information
                                        they need gathered on one page, recommend them American TA shows, and help them 
@@ -48,7 +53,11 @@ const Education = () => {
                                           Applied Linear Algebra, Techniques of Calculus. <br></br>
                         <b>[Projects]</b>: <a href="https://github.com/kyrarivest/MATH122FinalProject-UserRatingPrediction">User Rating Prediction</a>: 
                         Final project for Math122a - Numerical Methods and Big Data. We used a K-nearest neighbors inspired model to predict product ratings for 4500 given users. 
-                        We tested out the model with two different distance metrics: k-nearest neighbor algorithm, Euclidean distance, and Modified Euclidean Distance with a hyperparameter search. 
+                        We tested out the model with two different distance metrics: k-nearest neighbor algorithm, Euclidean distance, and Modified Euclidean Distance with a hyperparameter search. <br></br>
+                        <a href = 'https://docs.google.com/document/d/1vU1KU468Ulnv9Fq1oJLFCNt-zaHwFZr73FA8LGpATyE/edit?usp=sharing'>Stochastic Optimization Method Experiment - Adam</a>: 
+                        Final project for Math124a - Optimization. We conducted experiments on the performance of Adam, which is an algorithm for first-order gradient-based optimization method of stochastic objective functions with little memory requirement. 
+                        We implemented the algorithm in Python and conducted four experiments utilizing the Iris flower dataset. In the first experiment, we compared the performance of Adam, Gradient Descent, and Stochastic Gradient Descent on logistic regressions from convergent speed and classification accuracy.
+                        We then evaluated the effect alpha and batchSize has on accuracy and convergence speed and explored the influence of the number of parameters on the convergence. 
                     </div>
                 <h2>Economics B.A.</h2>
                 <div class="description">

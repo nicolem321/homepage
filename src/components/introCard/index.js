@@ -9,7 +9,7 @@ const IntroCard = () => {
                     <img src={require('./NicoleM.png')} />
                 </div>
                 <div className="contactBlock">
-                    Email: ziyimeng@brandes.edu
+                    Email: ziyimeng@brandeis.edu
                     Linkedin: <a href="https://www.linkedin.com/in/nicole-meng-ab80651b5/">nicole-meng</a><br></br>
                     Tel: +1 (781) 775-6231
                 </div>
@@ -21,7 +21,7 @@ const IntroCard = () => {
                 • B.S.Candidate at <a href="https://www.brandeis.edu/">Brandeis University</a><br></br>
                 • Computer Science | Applied Math | Economics <br></br>
                 • Current Research: Adversarial Machine Learning<br></br>
-                • Looking for Computer Science PhD Programs
+                • Undetermined Computer Science Ph.D. Candidate
                 <br></br><br></br>
             </div>
             <div className="descriptionBlock">
